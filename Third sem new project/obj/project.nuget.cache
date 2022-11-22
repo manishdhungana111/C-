@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9halc5mhi2F2rp8J5SKZDxqKM1R4uboyiLcLd0GyO3Cvgcl+5nM8jHetUrK340M4HEhHWCTJoPQxG6/QE6s5Q==",
+  "success": true,
+  "projectFilePath": "D:\\C## new\\Third sem new project\\Third sem new project\\Third sem new project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
