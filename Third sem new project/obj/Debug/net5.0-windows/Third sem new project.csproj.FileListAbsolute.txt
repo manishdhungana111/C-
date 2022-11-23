@@ -1,0 +1,19 @@
+D:\C## new\Third sem new project\Third sem new project\bin\Debug\net5.0-windows\Third sem new project.exe
+D:\C## new\Third sem new project\Third sem new project\bin\Debug\net5.0-windows\Third sem new project.deps.json
+D:\C## new\Third sem new project\Third sem new project\bin\Debug\net5.0-windows\Third sem new project.runtimeconfig.json
+D:\C## new\Third sem new project\Third sem new project\bin\Debug\net5.0-windows\Third sem new project.runtimeconfig.dev.json
+D:\C## new\Third sem new project\Third sem new project\bin\Debug\net5.0-windows\Third sem new project.dll
+D:\C## new\Third sem new project\Third sem new project\bin\Debug\net5.0-windows\ref\Third sem new project.dll
+D:\C## new\Third sem new project\Third sem new project\bin\Debug\net5.0-windows\Third sem new project.pdb
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.csproj.AssemblyReference.cache
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third_sem_new_project.Form1.resources
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.csproj.GenerateResource.cache
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.AssemblyInfoInputs.cache
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.AssemblyInfo.cs
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.csproj.CoreCompileInputs.cache
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.dll
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\ref\Third sem new project.dll
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.pdb
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third sem new project.genruntimeconfig.cache
+D:\C## new\Third sem new project\Third sem new project\obj\Debug\net5.0-windows\Third_sem_new_project.Properties.Resources.resources
